@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/mahdyah/WebProgrammingClassProject/assets/59580413/ce102163-1190-49c6-b03a-3e5628f357da)' 
+👉🏿<img src='github.com/mahdyah/CreatorVerse_Prework/blob/main/Prework/walkThrough.gif' 
    title='Video Walkthrough' 
    width='' alt='Video Walkthrough' />
 
